@@ -1,0 +1,13 @@
+<launch>
+ <node
+   pkg="labpkg"
+   type="square"
+   name="square"
+  />
+<node
+   pkg="labpkg"
+   type="getlaser"
+   name="getlaser"
+   output="screen"
+  />
+</launch>
