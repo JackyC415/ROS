@@ -1,5 +1,5 @@
 # ROS
-Robotics
+Robots Operating System
 ---comands to run project---
 install ROS kinetic
 cd workspace - CSE180robotics
